@@ -8,6 +8,13 @@ I'm a **Computer Application Engineer** focused on the full lifecycle of intelli
 - **Data Annotation** — building and managing high-quality labeled datasets
 - **Application Development** — integrating trained models into real-world applications
 
+## Published Apps
+
+### RanTerm — SSH & SFTP Client
+[![Download on the Mac App Store](https://img.shields.io/badge/Mac%20App%20Store-RanTerm-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/ranterm/id6777069968?mt=12)
+
+A macOS SSH & SFTP terminal tool available on the Mac App Store.
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
